@@ -1,0 +1,1 @@
+draw_text(660, 25, string("Score : {0}" , global.Score));
